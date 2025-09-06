@@ -82,7 +82,7 @@ I'm a passionate **Flutter Developer** and **Deep Learning AI Engineer** who lov
 </div>
 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzad885&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzad88&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -90,7 +90,7 @@ I'm a passionate **Flutter Developer** and **Deep Learning AI Engineer** who lov
 ## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzad88&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzad885&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
