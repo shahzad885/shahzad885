@@ -10,7 +10,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
----
 
 ## 🚀 About Me
 
@@ -22,7 +21,6 @@ I'm a passionate **Flutter Developer** and **Deep Learning AI Engineer** who lov
 - 🎯 Goal: Bridging the gap between AI research and practical mobile solutions
 - ⚡ Fun fact: I speak fluent Dart and my AI models understand Python better than I do!
 
----
 
 ## 🛠️ Tech Stack
 
