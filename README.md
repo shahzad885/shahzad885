@@ -42,17 +42,6 @@ I'm a passionate **Flutter Developer** and **Deep Learning AI Engineer** who lov
 
 ## 📊 GitHub Statistics
 
-<!----   
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzad885&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzad885&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
--->
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzad885&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
