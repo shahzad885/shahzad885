@@ -40,8 +40,8 @@ I like working across the stack and exploring how **AI can be applied to real-wo
 ## 🤝 Connect With Me
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahzad-ahmad-741865225)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://shahzad.portfolio.theskypanel.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahzad-ahmed-b9b91126a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://my-portfolio-dun-nine-97.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:shahzadktk885@gmail.com)
 
 </div>
