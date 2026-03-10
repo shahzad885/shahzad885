@@ -32,6 +32,9 @@ Currently pursuing my BS in Computer Science at COMSATS University Islamabad wit
 
 ## 💼 Projects
 
+### [TempShot]([https://github.com/shahzad885/temp_shop])
+Mobile App - 🗑️TempShot - delete screenshots automatically
+
 ### 🧠 [Soul Sketch]([youtube.com/watch?si=Vll3quWC8IjpkNw0&v=nFEEVkredZQ&feature=youtu.be]) 
 Mobile App | AI | IoT - Revolutionizing Psychological Tests with AI 
 
