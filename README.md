@@ -32,6 +32,9 @@ Currently pursuing my BS in Computer Science at COMSATS University Islamabad wit
 
 ## 💼 Projects
 
+### [🧠MindMate](https://github.com/shahzad885/mindmate)
+Mobile App -  MindMate — AI Life Companion
+
 ### [🗑️TempShot](https://github.com/shahzad885/temp_shop)
 Mobile App - TempShot - delete screenshots automatically
 
